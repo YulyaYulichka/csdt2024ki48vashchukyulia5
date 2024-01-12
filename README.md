@@ -13,3 +13,5 @@ Student - Vashcuk Yulia
 Task - tic-tac-toe (unlimited board)
 
 Config format - JSON
+
+a
